@@ -3,7 +3,7 @@
 
 I'm python developer in ML.
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) How to contact me: Just send email to mainetspv@gmail.com
+How to contact me: Just send email to mainetspv@gmail.com
 
 My education: Applied mathematics and computer science (01.03.02)
 
