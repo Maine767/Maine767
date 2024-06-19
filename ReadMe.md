@@ -1,7 +1,7 @@
 ## :wave: Hi, there!
 
 
-I'm python developer in ML.
+I'm python developer in ML and DS.
 
 How to contact me: Just send email to mainetspv@gmail.com
 
