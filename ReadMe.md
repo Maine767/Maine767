@@ -1,7 +1,7 @@
 ## :wave: Hi, there!
 
 
-I'm python analyst-developer in Fintehc/E-com.
+I'm python analyst-developer in Fintech/E-com.
 
 How to contact me: Just send email to mainetspv@gmail.com
 
