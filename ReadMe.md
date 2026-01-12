@@ -1,6 +1,6 @@
 ## :wave: Hi, there!
 
-I'm a **Python Analyst & Developer** with a background in Fintech/E-com, currently evolving towards **Machine Learning Engineering (MLE)**.
+I'm a **Data Analyst & Engineer** with a background in Fintech/E-com, currently evolving towards **Machine Learning Engineering (MLE)**.
 
 ### :mortar_board: Education
 * **B.Sc. in Applied Mathematics and Computer Science**
