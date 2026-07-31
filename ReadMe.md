@@ -1,6 +1,6 @@
 ## :wave: Hi, there!
 
-I'm a **Data Analyst & Engineer** with a background in Fintech/E-com, currently evolving towards **Machine Learning Engineering (MLE)**.
+I'm a **Data & Analytics Engineer** with a background in Fintech/E-com.
 
 ### :mortar_board: Education
 * **B.Sc. in Applied Mathematics and Computer Science**
@@ -37,4 +37,4 @@ I'm a **Data Analyst & Engineer** with a background in Fintech/E-com, currently 
 * **Creative:** Graphics Engineering
 
 ---
-:email: **Contact me:** [mainetspv@gmail.com](mailto:mainetspv@gmail.com)
+:email: **Contact me:** [nikita.valko.job@gmail.com](mailto:nikita.valko.job@gmail.com)
